@@ -1,3 +1,8 @@
 Hi, adding msg through git.
 
+<<<<<<< HEAD
 New msg.
+=======
+New msg.Git remote
+new line
+>>>>>>> 4663a723c06700d5426f9541e60e06111f598eea
